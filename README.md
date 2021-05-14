@@ -22,3 +22,7 @@
 
 - Alle gleichzeitig ziehen bei 3.3V 6mA vom Raspberry
 - DC- : Netzteil - UND Raspberry Ground
+
+# Programmierung
+
+- npm und Raspberry Pi: https://github.com/fivdi/pigpio/blob/master/doc/gpio.md
